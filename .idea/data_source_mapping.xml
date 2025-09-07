@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/queries/query001.sql" value="70f24d90-a326-4b74-93a4-12acd3ff8994" />
+    <file url="file://$PROJECT_DIR$/queries/query002.sql" value="70f24d90-a326-4b74-93a4-12acd3ff8994" />
+    <file url="file://$PROJECT_DIR$/queries/query003.sql" value="70f24d90-a326-4b74-93a4-12acd3ff8994" />
+    <file url="file://$PROJECT_DIR$/queries/query004.sql" value="70f24d90-a326-4b74-93a4-12acd3ff8994" />
+    <file url="file://$PROJECT_DIR$/queries/query005.sql" value="70f24d90-a326-4b74-93a4-12acd3ff8994" />
+    <file url="file://$PROJECT_DIR$/queries/query006.sql" value="70f24d90-a326-4b74-93a4-12acd3ff8994" />
+  </component>
+</project>
